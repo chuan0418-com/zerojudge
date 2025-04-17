@@ -8,4 +8,4 @@ elif input[1] == "-":
 elif input[1] == "*":
     print(input[0]*input[2])
 elif input[1] == "/":
-    print(int(input[0]/input[2]))
+    print(input[0]//input[2])
